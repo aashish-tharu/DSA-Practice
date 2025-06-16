@@ -1,0 +1,6 @@
+there is 2 variable:
+1. currentSum
+2. maxSum
+
+run one loop 
+if current sum is less then reset currentSum to zero

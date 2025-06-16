@@ -1,0 +1,7 @@
+Binary Search:
+Binary Search algorithm is a search algorithm
+find the position of a target within a sorted array
+works by repeatedly dividing the earch interval in half until the target value is found or the interval is empty
+
+Condition to apply binary search:
+1. The data must be sorted

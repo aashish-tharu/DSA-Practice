@@ -1,0 +1,11 @@
+Given:
+1. array
+2. array of n integers
+3. target
+
+To do:
+find the target:
+1. if found return the index 
+2. if it doesn't exist, return -1
+
+ref: https://www.geeksforgeeks.org/linear-search/
